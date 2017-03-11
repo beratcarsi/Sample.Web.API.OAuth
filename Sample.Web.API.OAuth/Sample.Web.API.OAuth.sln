@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Web.API.OAuth", "Sample.Web.API.OAuth\Sample.Web.API.OAuth.csproj", "{D05EEA50-B0F2-4554-9873-18F22BBCE74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Web.API.OAuth.Tests", "Sample.Web.API.OAuth.Tests\Sample.Web.API.OAuth.Tests.csproj", "{40755AF8-5429-4CD9-B324-DD59EC4A7BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05EEA50-B0F2-4554-9873-18F22BBCE74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05EEA50-B0F2-4554-9873-18F22BBCE74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05EEA50-B0F2-4554-9873-18F22BBCE74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05EEA50-B0F2-4554-9873-18F22BBCE74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40755AF8-5429-4CD9-B324-DD59EC4A7BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40755AF8-5429-4CD9-B324-DD59EC4A7BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40755AF8-5429-4CD9-B324-DD59EC4A7BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40755AF8-5429-4CD9-B324-DD59EC4A7BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
